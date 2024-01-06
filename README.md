@@ -15,6 +15,7 @@ Current goal:
 :o: Determine path to make a relational database/ table from raw csv
 
 :o: Make relational database /table
+- need to determine unique identifier for original table and the columns that would go with it
 
 Previous Goals:
 
